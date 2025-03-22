@@ -1,8 +1,8 @@
 <?php
 
 class NAMA_CLASS                               }
-{                                              }    
-    public $NAMA_VARIABLE;  } //PROPERTIES     } //CLASS
-}                                              }
+{                                              } //CLASS   
+    public $NAMA_VARIABLE;  } //PROPERTIES     } 
 
-function NAMA_METHOD($NAMA_PARAMETER) 
+
+    function NAMA_METHOD($NAMA_PARAMETER)
