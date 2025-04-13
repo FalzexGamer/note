@@ -18,9 +18,9 @@
 - Inventory
 - Receiving
 - Register user(connect login user) nama username password salary,ic phone
-- Unit of Measurement
+- Unit of Measurement (edit)
 - setting change password 
 - vendor insert 
-- Group Id
-- Category
-- Brand ID
+- Group Id (delete and edit)
+- Category (delete and edit)
+- Brand ID (delete and edit)
