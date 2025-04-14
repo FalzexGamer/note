@@ -17,12 +17,12 @@
 - Backup
 - Inventory
 - Receiving
-- Register user(connect login user) nama username password salary,ic phone
-- Unit of Measurement (edit)
-- setting change password 
+- Register user(connect login user) nama username password salary,ic phone(settle)
+- Unit of Measurement (edit)(settle)
+- setting change password (settle)
 - vendor insert 
 - Group Id (delete and edit)
-- Category (delete and edit)
+- Category (delete and edit)(settle)
 - Brand ID (delete and edit)
 
 14/4
