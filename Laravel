@@ -1,0 +1,18 @@
+in tinker 
+App\Models\(nama Model)::factory(BILANGAN data)->create();
+->untuk execute factory atau create data dummy
+
+App\Models\(nama Model)::find(data yg nak dicari);
+->untuk listing data
+
+php artisan make:model -mf;
+->untuk make model -M for migration and F for factory
+
+php artisan migrate
+->untuk create database
+
+php artisan migrate:fresh
+->clear all data in database
+
+php artisan migrate:rollback
+-> untuk reverse migration 
