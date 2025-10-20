@@ -1,8 +1,0 @@
-<?php
-
-class NAMA_CLASS                               }
-{                                              } //CLASS   
-    public $NAMA_VARIABLE;  } //PROPERTIES     } 
-
-
-    function NAMA_METHOD($NAMA_PARAMETER)
