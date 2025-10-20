@@ -1,4 +1,0 @@
-ALTER TABLE `users` ADD `ic_number` VARCHAR(255) NOT NULL DEFAULT '-' AFTER `name`;
-
-ALTER TABLE `users` ADD `salary` DECIMAL(11,2) NOT NULL DEFAULT '0.00' AFTER `delTime`;
-
