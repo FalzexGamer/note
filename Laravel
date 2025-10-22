@@ -1,4 +1,7 @@
-in tinker 
+https://github.com/barryvdh/laravel-debugbar
+
+
+IN TINKER
 App\Models\(nama Model)::factory(BILANGAN data)->create();
 ->untuk execute factory atau create data dummy
 
@@ -11,6 +14,7 @@ $tag->job()->attach()
 $tag->job()->get()->pluck(data);
 ->untuk dapat data
 
+IN TERMINAL
 php artisan make:model -mf;
 ->untuk make model -M for migration and F for factory
 
@@ -22,3 +26,10 @@ php artisan migrate:fresh
 
 php artisan migrate:rollback
 -> untuk reverse migration 
+
+IN CODE 
+Job::with('employer')->get();
+->eagle loading
+
+
+
