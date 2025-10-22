@@ -5,6 +5,12 @@ App\Models\(nama Model)::factory(BILANGAN data)->create();
 App\Models\(nama Model)::find(data yg nak dicari);
 ->untuk listing data
 
+$tag->job()->attach()
+->untuk tambah data 
+
+$tag->job()->get()->pluck(data);
+->untuk dapat data
+
 php artisan make:model -mf;
 ->untuk make model -M for migration and F for factory
 
