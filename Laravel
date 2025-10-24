@@ -34,5 +34,6 @@ Job::with('employer')->get();
 <label {{ $attributes->merge(['class' => '']) }}> {{$slot}}</>
 -> attributes
 
+<button :active="request()->is('/active')"></button>
 
 
