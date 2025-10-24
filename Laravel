@@ -31,5 +31,8 @@ IN CODE
 Job::with('employer')->get();
 ->eagle loading
 
+<label {{ $attributes->merge(['class' => '']) }}> {{$slot}}</>
+-> attributes
+
 
 
